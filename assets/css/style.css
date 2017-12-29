@@ -1,0 +1,27 @@
+body {
+
+}	
+
+a:hover {
+	text-decoration: none;
+}
+
+#title {
+	letter-spacing: 2vw;
+	color: rgb(212, 140, 122);
+}
+
+#header-section {
+	width: 100%;
+}
+
+#about, #portfolio, #connect {
+	background: url("../images/bg-blur-secondary.jpg") fixed center bottom;
+	width: 100%;
+	padding: 10%;
+	line-height: 150%;
+}
+
+#profile {
+  width: 100%;
+}
