@@ -6,6 +6,10 @@ a:hover {
 	text-decoration: none;
 }
 
+#job {
+  color: white;
+}
+
 #title {
 	letter-spacing: 2vw;
 	color: rgb(212, 140, 122);
