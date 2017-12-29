@@ -1,7 +1,3 @@
-body {
-
-}	
-
 a:hover {
 	text-decoration: none;
 }
@@ -12,7 +8,8 @@ a:hover {
 
 #title {
 	letter-spacing: 2vw;
-	color: rgb(212, 140, 122);
+/*	color: rgb(212, 140, 122);*/
+  color: teal;
 }
 
 #header-section {
@@ -26,6 +23,10 @@ a:hover {
 	line-height: 150%;
 }
 
-#profile {
-  width: 100%;
+#profile-pic {
+  width: 60%;
+}
+
+.img-size {
+  width: 80%;
 }
