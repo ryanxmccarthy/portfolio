@@ -8,7 +8,6 @@ a:hover {
 
 #title {
 	letter-spacing: 2vw;
-/*	color: rgb(212, 140, 122);*/
   color: teal;
 }
 
@@ -29,4 +28,9 @@ a:hover {
 
 .img-size {
   width: 80%;
+}
+
+.projects {
+  color: teal;
+  text-align: center;
 }
