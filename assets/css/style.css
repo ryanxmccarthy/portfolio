@@ -2,6 +2,10 @@ a:hover {
 	text-decoration: none;
 }
 
+footer {
+  background-color: black;
+}
+
 #job {
   color: white;
 }
@@ -24,6 +28,11 @@ a:hover {
 
 #profile-pic {
   width: 60%;
+  border-radius: 50%;
+}
+
+.footer-copyright {
+  background-color: black;
 }
 
 .img-size {
